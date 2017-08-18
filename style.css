@@ -31,3 +31,27 @@ h1{
   margin-left: 300px;
   width: 60%;
 }
+.map, .shoes, .myDiet{
+  margin-left: 300px;
+  width: 60%;
+}
+h2, h3{
+  text-align: center;
+  padding-top: 30px;
+}
+.loc, .shoe, .diet, .school-info{
+  color: white;
+  height: 700px;
+}
+.loc{
+  background: #452103;
+}
+.shoe{
+  background-color: #656839;
+}
+.diet{
+  background-color: #BB6B00;
+}
+.school-info{
+  background-color: #7B5804;
+}
