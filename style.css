@@ -35,13 +35,18 @@ h1{
   margin-left: 300px;
   width: 60%;
 }
-h2, h3{
+h2, h3, h1{
   text-align: center;
   padding-top: 30px;
+  color: white;
 }
-.loc, .shoe, .diet, .school-info{
+.loc, .shoe, .diet,{
   color: white;
   height: 700px;
+}
+.school-info{
+  height: 500px;
+  color: white;
 }
 .loc{
   background: #452103;
@@ -54,4 +59,16 @@ h2, h3{
 }
 .school-info{
   background-color: #7B5804;
+}
+.info{
+  display: flex;
+  justify-content: space-around;
+}
+.mission, .community, .story{
+  width: 27%;
+  border: 3px solid white;
+  padding: 10px;
+}
+.whatever{
+  padding-top: 0;
 }
